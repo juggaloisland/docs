@@ -1,1 +1,1 @@
-<p style="text-align: center;"><img alt="" src="https://github.com/juggaloisland/docs/blob/master/header4.png?raw=true" style="width: 300px; height: 223px;" /></p>
+<p style="text-align: center;"><a href="https://www.butterflycorp.net/?ref=waffles"><img alt="" src="https://github.com/juggaloisland/docs/blob/master/header4.png?raw=true" style="width: 300px; height: 223px;" /></a></p>
